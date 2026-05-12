@@ -61,3 +61,12 @@ __Assign & Communication__
 Assigned John the ticket
 </p>
 <br />
+
+
+<p><img width="308" height="145" alt="Before changes" src="https://github.com/user-attachments/assets/0df5a454-26fc-4597-b7b3-47153a7e7d10" />
+</p>
+<p>
+<img width="380" height="190" alt="Changes in OSTicket" src="https://github.com/user-attachments/assets/370cf031-4a4c-44df-a00a-3f85b076b20e" />
+</p>
+<br />
+
