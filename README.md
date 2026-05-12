@@ -46,8 +46,8 @@ Logged in as help desk user, John, to view the ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="380" height="239" alt="OSTicket john access" src="https://github.com/user-attachments/assets/85579f6a-3af0-4a9c-a889-d4ded8f73cfa" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logged in as an Admin to upgrade John's access from view-only to full access.
 </p>
