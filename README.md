@@ -68,5 +68,6 @@ Assigned John the ticket
 <p>
 <img width="380" height="190" alt="Changes in OSTicket" src="https://github.com/user-attachments/assets/370cf031-4a4c-44df-a00a-3f85b076b20e" />
 </p>
+Moved SLA Plan from Default SLA to Sev-A, Priority from Normal to Emergency, and Help Topic from General Inquiry/Other to Report a Problem/Business Critical Outage
 <br />
 
