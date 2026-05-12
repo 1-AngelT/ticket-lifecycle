@@ -33,7 +33,7 @@ __Intake__
 <img width="341" height="370" alt="Osticket create a ticket" src="https://github.com/user-attachments/assets/1629b0cc-2e4a-479a-b767-7c516aae9f6f" />
 </p>
 <p>
-Acted as the enduser, Karen, to submit a ticket in OSticket.
+Acted as the enduser, Karen, to submit a ticket in OSticket. Entire moblie/online banking system down.
 </p>
 <br />
 
@@ -70,4 +70,17 @@ Assigned John the ticket
 </p>
 Moved SLA Plan from Default SLA to Sev-A, Priority from Normal to Emergency, and Help Topic from General Inquiry/Other to Report a Problem/Business Critical Outage
 <br />
+
+__Working the issue & Resolution__
+
+
+<p>
+<img width="383" height="313" alt="OSTicker Communication" src="https://github.com/user-attachments/assets/2c4cc4f8-3680-4e2f-80c5-7c647ef17ff2" />
+ />
+</p>
+<p>
+Logged in as John, communicated with the end user and resolved the issue. Temporary server outage affecting the online banking system. Restarted the application server and verified login access for users, and confirmed system is operational. 
+</p>
+<br />
+
 
