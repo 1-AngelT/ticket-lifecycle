@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="341" height="370" alt="Osticket create a ticket" src="https://github.com/user-attachments/assets/1629b0cc-2e4a-479a-b767-7c516aae9f6f" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Acted as the enduser, Karen, to submit a ticket in OSticket.
 </p>
 <br />
 
