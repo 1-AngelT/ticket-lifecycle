@@ -70,6 +70,7 @@ Assigned John the ticket
 </p>
 Moved SLA Plan from Default SLA to Sev-A, Priority from Normal to Emergency, and Help Topic from General Inquiry/Other to Report a Problem/Business Critical Outage
 <br />
+<br />
 
 
 __Working the issue & Resolution__
