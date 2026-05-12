@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-Intake
+**Intake**
 
 <p>
 <img width="341" height="370" alt="Osticket create a ticket" src="https://github.com/user-attachments/assets/1629b0cc-2e4a-479a-b767-7c516aae9f6f" />
