@@ -80,7 +80,7 @@ __Working the issue & Resolution__
 <img width="383" height="313" alt="OSTicker Communication" src="https://github.com/user-attachments/assets/2c4cc4f8-3680-4e2f-80c5-7c647ef17ff2" />
 </p>
 <p>
-Logged in as John, communicated with the end user and resolved the issue. Temporary server outage affecting the online banking system. Restarted the application server and verified login access for users, and confirmed system is operational. 
+Logged in as John, communicated with the end user and resolved the issue. Temporary server outage affecting the online banking system. Restarted the application server and verified login access for users, and confirmed system is operational. Marked ticket as resloved. 
 </p>
 <br />
 
