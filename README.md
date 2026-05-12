@@ -51,3 +51,13 @@ Logged in as help desk user, John, to view the ticket.
 <p>
 Logged in as an Admin to upgrade John's access from view-only to full access.
 </p>
+
+__Assign & Communication__
+
+
+<p><img width="378" height="358" alt="OSTicket assign to john" src="https://github.com/user-attachments/assets/cf80757e-2b09-4a1d-96a8-6ed5f750f2db" />
+</p>
+<p>
+Assigned John the ticket
+</p>
+<br />
